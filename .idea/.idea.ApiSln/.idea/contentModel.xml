@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_ApiSln.872587843.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/consoles/db" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/extensions" t="IncludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="Api" t="IncludeRecursive">
+        <e p="Api.csproj" t="IncludeRecursive" />
+        <e p="app.config" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controllers" t="Include">
+          <e p="ValuesController.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="Api.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="TradechimpsHub.cs" t="Include" />
+      </e>
+      <e p="ApiSln.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="web/node_modules/@aspnet/signalr" t="IncludeRecursive" />
+      <e p="web/node_modules/@types" t="IncludeRecursive">
+        <e p="events" t="IncludeRecursive" />
+        <e p="minimatch" t="IncludeRecursive" />
+        <e p="node" t="IncludeRecursive" />
+      </e>
+      <e p="web/node_modules/@vue/cli-plugin-babel" t="IncludeRecursive" />
+      <e p="web/node_modules/@vue/cli-plugin-eslint" t="IncludeRecursive" />
+      <e p="web/node_modules/@vue/cli-service" t="IncludeRecursive" />
+      <e p="web/node_modules/babel-eslint" t="IncludeRecursive" />
+      <e p="web/node_modules/core-js" t="IncludeRecursive" />
+      <e p="web/node_modules/eslint" t="IncludeRecursive" />
+      <e p="web/node_modules/eslint-plugin-vue" t="IncludeRecursive" />
+      <e p="web/node_modules/signalr" t="IncludeRecursive" />
+      <e p="web/node_modules/vue" t="IncludeRecursive" />
+      <e p="web/node_modules/vue-router" t="IncludeRecursive" />
+      <e p="web/node_modules/vue-template-compiler" t="IncludeRecursive" />
+      <e p="web/node_modules/vuex" t="IncludeRecursive" />
+    </e>
+  </component>
+</project>

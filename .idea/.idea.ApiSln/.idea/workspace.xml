@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b03f3103-8cae-4e82-bb59-1eca0628d49b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/babel.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/App.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/components/HelloWorld.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/router.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/services/tradechimpshubservice.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/store.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/About.vue" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/web/src/views/Home.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Api/TradechimpsHub.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Api/TradechimpsHub.cs" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/web/node_modules/" />
+    <ignored path="Api/obj/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Api/TradechimpsHub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="368">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding>
+                <marker date="1565816299983" expanded="true" signature="6:79" ph="..." />
+                <marker date="1565816299983" expanded="true" signature="94:601" ph="{...}" />
+                <marker date="1565816299983" expanded="true" signature="134:599" ph="{...}" />
+                <marker date="1565816299983" expanded="true" signature="201:325" ph="{...}" />
+                <marker date="1565816299983" expanded="true" signature="382:446" ph="{...}" />
+                <marker date="1565816299983" expanded="true" signature="517:593" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/66/b09e62ee/IHubClients`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/56/2ec63a3b/HubClients`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/77/8fd5dbb5/AllClientProxy`1.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api/Properties/launchSettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/22/fff3d493/ExceptionDispatchInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+              <folding>
+                <marker date="1565786202257" expanded="false" signature="6:255" ph="..." />
+                <marker date="1565786202257" expanded="true" signature="270:597" ph="{...}" />
+                <marker date="1565786202257" expanded="true" signature="297:595" ph="{...}" />
+                <marker date="1565786202257" expanded="true" signature="350:424" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="590">
+              <caret line="57" column="85" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="85" />
+              <folding>
+                <marker date="1565807633555" expanded="false" signature="6:402" ph="..." />
+                <marker date="1565807633555" expanded="true" signature="417:2128" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="444:2126" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="588:651" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="874:1359" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="937:1210" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="1048:1194" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="1547:2120" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="1594:1671" ph="{...}" />
+                <marker date="1565807633555" expanded="true" signature="1688:1891" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/e0/56da0bda/Hub.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/09/4ea316e4/HubCallerClients.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Api/TradechimpsHub.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFD7FF6C-00B2-45C5-9639-6B527C6E2AFB/9c/6aa4c076/SignalRAppBuilderExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/09/4ea316e4/HubCallerClients.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Startup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/56/2ec63a3b/HubClients`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/22/fff3d493/ExceptionDispatchInfo.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/d4/d6a42bc0/ClientProxyExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/e0/56da0bda/Hub.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/77/8fd5dbb5/AllClientProxy`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/66/b09e62ee/IHubClients`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Api/Startup.cs" />
+        <option value="$PROJECT_DIR$/Api/TradechimpsHub.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.ApiSln/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/.idea.ApiSln/.idea/indexLayout.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1920" />
+    <option name="height" value="1109" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ApiSln" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ApiSln" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Api" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ApiSln" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Api" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="RiderXUnitUnitTestingPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Launch Settings Profile.Api">
+    <configuration name="Api" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Api/Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="Api" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Api: IIS Express" type="LaunchSettings" factoryName=".NET Launch Settings Profile">
+      <option name="LAUNCH_PROFILE_PROJECT_FILE_PATH" value="$PROJECT_DIR$/Api/Api.csproj" />
+      <option name="LAUNCH_PROFILE_TFM" value=".NETCoreApp,Version=v2.2" />
+      <option name="LAUNCH_PROFILE_NAME" value="IIS Express" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="GENERATE_APPLICATIONHOST_CONFIG" value="1" />
+      <option name="SHOW_IIS_EXPRESS_OUTPUT" value="0" />
+      <option name="SEND_DEBUG_REQUEST" value="1" />
+      <option name="ADDITIONAL_IIS_EXPRESS_ARGUMENTS" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b03f3103-8cae-4e82-bb59-1eca0628d49b" name="Default Changelist" comment="" />
+      <created>1565785825453</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565785825453</updated>
+      <workItem from="1565785826580" duration="7924000" />
+    </task>
+    <task id="LOCAL-00001" summary="First Commit">
+      <created>1565786579467</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1565786579467</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7924000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1920" height="1109" extended-state="0" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24973376" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="NuGet" weight="0.32940018" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Unit Tests" />
+      <window_info anchor="bottom" id="Terminal" weight="0.32940018" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32940018" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32940018" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.20550638" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First Commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/FFD7FF6C-00B2-45C5-9639-6B527C6E2AFB/9c/6aa4c076/SignalRAppBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="24" column="38" selection-start-line="24" selection-start-column="38" selection-end-line="24" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/d4/d6a42bc0/ClientProxyExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="64" column="23" selection-start-line="64" selection-start-column="23" selection-end-line="64" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="7" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/33E46F62-2720-44F4-B84B-BEBF6D7F0B71/22/fff3d493/ExceptionDispatchInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="91" column="6" selection-start-line="91" selection-start-column="6" selection-end-line="91" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+          <folding>
+            <marker date="1565786202257" expanded="false" signature="6:255" ph="..." />
+            <marker date="1565786202257" expanded="true" signature="270:597" ph="{...}" />
+            <marker date="1565786202257" expanded="true" signature="297:595" ph="{...}" />
+            <marker date="1565786202257" expanded="true" signature="350:424" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/e0/56da0bda/Hub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="22" column="21" lean-forward="true" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/09/4ea316e4/HubCallerClients.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="93" selection-start-line="10" selection-start-column="93" selection-end-line="10" selection-end-column="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/66/b09e62ee/IHubClients`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="14" column="27" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/56/2ec63a3b/HubClients`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="18" column="40" lean-forward="true" selection-start-line="18" selection-start-column="40" selection-end-line="18" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F129BFFB-E30E-4E83-BAD7-40868B141DB2/77/8fd5dbb5/AllClientProxy`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/Startup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="590">
+          <caret line="57" column="85" selection-start-line="57" selection-start-column="71" selection-end-line="57" selection-end-column="85" />
+          <folding>
+            <marker date="1565807633555" expanded="false" signature="6:402" ph="..." />
+            <marker date="1565807633555" expanded="true" signature="417:2128" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="444:2126" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="588:651" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="874:1359" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="937:1210" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="1048:1194" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="1547:2120" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="1594:1671" ph="{...}" />
+            <marker date="1565807633555" expanded="true" signature="1688:1891" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Api/TradechimpsHub.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding>
+            <marker date="1565816299983" expanded="true" signature="6:79" ph="..." />
+            <marker date="1565816299983" expanded="true" signature="94:601" ph="{...}" />
+            <marker date="1565816299983" expanded="true" signature="134:599" ph="{...}" />
+            <marker date="1565816299983" expanded="true" signature="201:325" ph="{...}" />
+            <marker date="1565816299983" expanded="true" signature="382:446" ph="{...}" />
+            <marker date="1565816299983" expanded="true" signature="517:593" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.dll.config
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.deps.json
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.json
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.runtimeconfig.dev.json
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.dll
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/bin/Debug/netcoreapp2.2/Api.pdb
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.csprojAssemblyReference.cache
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.csproj.CoreCompileInputs.cache
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cache
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.RazorAssemblyInfo.cs
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfoInputs.cache
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.AssemblyInfo.cs
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.RazorTargetAssemblyInfo.cache
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.dll
+/Users/mortenovergaard/source/aspnetcore-vue-signalr/Api/obj/Debug/netcoreapp2.2/Api.pdb

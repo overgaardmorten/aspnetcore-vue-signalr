@@ -15,6 +15,8 @@ namespace Api
 {
     public class Startup
     {
+        readonly string MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+        
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
@@ -25,7 +27,17 @@ namespace Api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddCors(options =>
+            {
+                options.AddPolicy(MyAllowSpecificOrigins,
+                    builder =>
+                    {
+                        builder.WithOrigins("http://localhost:8080").AllowAnyMethod().AllowAnyHeader().AllowCredentials();
+                    });
+            });
+            
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
+            services.AddSignalR();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -41,8 +53,11 @@ namespace Api
                 app.UseHsts();
             }
 
+            app.UseCors(MyAllowSpecificOrigins); 
             app.UseHttpsRedirection();
+            app.UseSignalR(builder => builder.MapHub<TradechimpsHub>("/tradechimpsHub"));
             app.UseMvc();
+            
         }
     }
 }
